@@ -1,5 +1,12 @@
 {
+  "name": "mortennajbjerg/RandomProbabilty",
   "autoload": {
       "psr-0": {"RandomProbabilty": "src/"}
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/mortennajbjerg/RandomProbability"
+    }
+  ],
 }
