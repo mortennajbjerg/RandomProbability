@@ -1,5 +1,5 @@
 {
-  "name": "mortennajbjerg/RandomProbabilty",
+  "name": "mortennajbjerg/random-probabilty",
   "autoload": {
       "psr-0": {"RandomProbabilty": "src/"}
   },
