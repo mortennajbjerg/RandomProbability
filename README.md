@@ -2,6 +2,14 @@
 
 A class to return one or more random results based on a weighted probability.
 
+## Installation
+
+Install this package through composer:
+
+```
+composer require mortennajbjerg/random-probabilty=dev-master
+```
+
 ## Examples
 
 ### Retrieving a single result
